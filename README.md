@@ -1,4 +1,4 @@
-# BarracksWars
+# Barracks Wars
 Barracks Wars
 
 Barracks Wars Task Implementation
